@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A mobile developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakyali&label=Profile%20views&color=0e75b6&style=flat" alt="freakyali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakyali" alt="freakyali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakyali&theme=monokai" alt="freakyali" /></a> </p>
 
-- I am currently working on some fun .NET MAUI and Flutter OSS
+- I am currently working on some fun OSS
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning: **Rust** and **GO**
 
-- 📝 I regularly write articles on [my blog](https://medium.com/@freakyali)
+- 📝 I regularly write articles on: [my blog](https://medium.com/@freakyali)
 
-- 💬 Ask me about **Pretty much anything techie!!**
+- 💬 Ask me about: **Pretty much anything techie!!**
 
-- 📫 How to reach me **Feel free to reach out to me on my socials!**
+- 📫 How to reach me: **Feel free to reach out to me on my socials!**
 
-- ⚡ Fun fact **A bank is a place that will lend you money if you can prove that you don’t need it.**
+- ⚡ Fun fact: **A bank is a place that will lend you money if you can prove that you don’t need it.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blog posts
+[Dart, extends implements and with](https://medium.com/@freakyali/if-darts-extends-implements-and-with-confuse-you-it-s-not-your-fault-6fbd8a6186d1)
+
+[Go has the best error handling](https://medium.com/stackademic/go-has-the-best-error-handling-fight-me-e6714b99ea34)
+
+[.NET Tips series](https://medium.com/@freakyali/list/net-tips-4a7bd5e7a974)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
