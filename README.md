@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakyali&label=Profile%20views&color=0e75b6&style=flat" alt="freakyali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakyali&theme=monokai" alt="freakyali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakyali&theme=onedark" alt="freakyali" /></a> </p>
+
+
 
 - I am currently working on some fun OSS
 
