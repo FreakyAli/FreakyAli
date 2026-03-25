@@ -20,7 +20,7 @@
 
 - 🏢 **Staff Engineer @ Tegna Inc.** — building a native mobile platform for broadcast media operators
 - 🏆 **Microsoft MVP 2026–27** & **Xamarin Certified Developer**
-- 📦 Author of **10 open-source NuGet packages** with **245k+ total downloads**
+- 📦 Author of open-source
 - 🧠 Deep expertise in **runtime internals**, **memory & GC behaviour**, **concurrency models**, and **async internals**
 - 🔧 9+ years shipping production apps across **.NET MAUI · Xamarin · Flutter · SwiftUI · Jetpack Compose**
 - 📝 I write about mobile architecture and .NET on [Medium](https://medium.com/@freakyali)
